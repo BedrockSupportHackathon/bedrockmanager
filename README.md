@@ -1,0 +1,1 @@
+This is a Bedrock Manager application to manage all Bedrock components 
